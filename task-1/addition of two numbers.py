@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Addition of two numbers - simple CLI program."""
-
 def add_numbers(a, b):
     return a + b
 
