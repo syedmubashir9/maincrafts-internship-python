@@ -47,7 +47,8 @@ Below is the list of challenges implemented in this task:
 
 ## 📂 Project Structure
 
-📦 Python-Internship-Task-1
+📦 MAINCRAFTS-INTERNSHIP-PYTHON
+task-1
 ┣ 📜 sum_of_two_numbers.py
 ┣ 📜 odd_even_checker.py
 ┣ 📜 factorial.py
@@ -91,7 +92,90 @@ python filename.py
 I would like to thank Maincrafts Technology for providing this opportunity to build a strong foundation in Python programming through practical challenges.
 
 
+# 🐍 Python Programming Internship – Task 2 
+
+# 🧾 Expense Tracker – Python CLI Application  
+
+This mini project is developed as part of **Task 2** of the **Python Programming Internship**.  
+It is a **command-line based Expense Tracker** that helps users record, store, and analyze their daily expenses.
+
+---
+
+## 📌 Task Description
+
+After practicing Python basics in Task 1, this task focuses on applying Python in a **real-world mini project**.
+
+The project demonstrates:
+- Taking user input
+- Storing data in a CSV file
+- Reading and displaying stored data
+- Performing basic calculations
+
+---
+
+## ✅ Features
+
+✔ Add an expense (description + amount)  
+✔ View all saved expenses  
+✔ Calculate total amount spent  
+✔ Data stored permanently using CSV file  
+✔ Simple and user-friendly CLI interface  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.14
+- CSV File Handling
+- Functions & Loops
+
+---
+
+## 📂 Project Structure
+
+MAINCRAFTS-INTERNSHIP-PYTHON
+task-2
+├── expense_tracker.py
+├── expenses.csv
+└── README.md
 
 
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone <your-repo-link>
+
+2. Go to the project directory:
+
+cd task-2/
+
+3. Run the program:
+
+python expense_tracker.py
 
 
+### 🎯 Skills Learned
+
+✔ File handling (read/write CSV files)
+✔ Structuring Python programs using functions
+✔ Command-line application development
+✔ Real-world problem solving
+
+### 📦 Deliverable
+
+A Python CLI Expense Tracker that can:
+
+Add expenses
+
+Display saved expenses
+
+Calculate total spent amount
+
+🙌 Acknowledgment
+
+Thanks to Maincrafts Technology for providing this opportunity to build a practical Python mini project.
+
+✨ More enhancements will be added in upcoming internship tasks.
