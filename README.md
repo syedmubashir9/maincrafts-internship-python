@@ -47,3 +47,51 @@ Below is the list of challenges implemented in this task:
 
 ## 📂 Project Structure
 
+📦 Python-Internship-Task-1
+┣ 📜 sum_of_two_numbers.py
+┣ 📜 odd_even_checker.py
+┣ 📜 factorial.py
+┣ 📜 fibonacci.py
+┣ 📜 string_reverse.py
+┣ 📜 palindrome_check.py
+┣ 📜 leap_year.py
+┣ 📜 armstrong_number.py
+┗ 📄 README.md
+
+
+---
+
+## 💡 Skills Gained
+
+✔ Python syntax & operators  
+✔ Conditional statements and loops  
+✔ Functions and logical thinking  
+✔ String & number manipulation  
+✔ Writing clean and reusable code  
+
+---
+
+## ▶️ How to Run the Programs
+
+1. Make sure **Python 3.14** is installed.
+2. Clone this repository:
+   ```bash
+   git clone <repository-link>
+   
+3. Navigate to the project folder:
+
+cd Python-Internship-Task-1
+
+4. Run any Python file:
+
+python filename.py
+
+🙌 Acknowledgment
+
+I would like to thank Maincrafts Technology for providing this opportunity to build a strong foundation in Python programming through practical challenges.
+
+
+
+
+
+
