@@ -272,8 +272,10 @@ Calculate total spent amount
 
 Thanks to Maincrafts Technology for providing this opportunity to build a practical Python mini project.
 
-# 🧾 Expense Tracker 2.0 – Python CLI  
-### Python Programming Internship – Task 3
+
+# Python Programming Internship – Task 3
+### 🧾 Expense Tracker 2.0 – Python CLI  
+
 
 This project is an enhanced version of Expense Tracker developed during Task 3 of the Python Programming Internship.
 
