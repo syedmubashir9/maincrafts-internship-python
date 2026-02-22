@@ -57,7 +57,7 @@ def main():
         elif choice == "3":
             total_expense()
         elif choice == "4":
-            print("👋 Exiting Expense Tracker")
+            print("Exiting Expense Tracker")
             break
         else:
             print("Invalid choice. Try again.")
