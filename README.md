@@ -272,4 +272,30 @@ Calculate total spent amount
 
 Thanks to Maincrafts Technology for providing this opportunity to build a practical Python mini project.
 
-✨ More enhancements will be added in upcoming internship tasks.
+# 🧾 Expense Tracker 2.0 – Python CLI  
+### Python Programming Internship – Task 3
+
+This project is an enhanced version of Expense Tracker developed during Task 3 of the Python Programming Internship.
+
+This version includes categories, search functionality, and monthly spending analysis.
+
+---
+
+# 🚀 Features
+
+✔ Add expense with category  
+✔ View all expenses  
+✔ Search expenses by category  
+✔ Calculate total spent per category  
+✔ Calculate monthly spending  
+✔ CSV file storage  
+
+---
+
+# 🛠️ Technologies
+
+Python 3  
+CSV File Handling  
+Datetime Module  
+
+---
