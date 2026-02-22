@@ -301,3 +301,39 @@ CSV File Handling
 Datetime Module  
 
 ---
+
+# Python Programming Internship – Task 4
+### 🧾 Expense Tracker 3.0 – Python CLI  
+
+
+This project is a menu-driven Expense Tracker developed using Python and CSV file handling.
+
+---
+
+# 🚀 Features
+
+Add Expense  
+View All Expenses  
+Search by Category  
+Monthly Summary  
+Delete Expense by ID  
+
+---
+
+# 🛠️ Technologies
+
+Python  
+CSV  
+File Handling  
+
+---
+
+# ▶️ Run
+
+python expense_tracker_v3.py
+
+---
+
+# 📦 Internship
+
+Maincrafts Technology – Python Internship Task 4
